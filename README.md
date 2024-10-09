@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Frontend Developer
-- 💬 Ask me anything about Frontedn Developer 
+- 💬 Ask me anything about Frontend Developer 
 - 📫 How to reach me: mdtauseeefraja@gmail.com
 
   
