@@ -17,7 +17,7 @@
    <a href="https://fb.com/md.tauseefraja.9">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-   <a href="https://twitter.com/ezycode">
+   <a href="https://twitter.com/ezycode101">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
